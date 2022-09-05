@@ -145,6 +145,7 @@ int main()
         i++;
         
     }
+    print();
 cout<<"game completed in "<<i<<"steps congrats";
     return 0;
 }
